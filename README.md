@@ -11,7 +11,6 @@ Passionate developer building scalable web applications and exploring new techno
 - 💼 **Experience:** 5 months
 - 🎯 **Specialization:** Html, Css,Js,Python,Next
 - 📚 **Currently Learning:** Next.JS
-- ⚡ **Fun Fact:** 
 
 ---
 
@@ -34,7 +33,7 @@ A modern web application with helps to create modern websites using technologies
 
 ---
 
-## 💡 Interests & Hobbies
+## 💡 Interests 
 
 - Open source contributions
 - Web3 development
@@ -52,5 +51,5 @@ A modern web application with helps to create modern websites using technologies
 </div>
 
 <div align="center">
-  <sub>Built with ❤️ by Kaua</sub>
+  <sub> by Kaua</sub>
 </div>
