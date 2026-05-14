@@ -29,9 +29,9 @@ Passionate developer building scalable web applications and exploring new techno
 ### 🚀 [Web Site Constructor]()
 A modern web application with helps to create modern websites using technologies such as HTML, CSS, JS, Next, etc.
 
-`Html `Css` `Js`
+`Html` `Css` `Js`
 
-### 🪒 [Barber Shop]
+### 🪒 [Barber Shop]()
 Web application for a local barber shop on my city. Technologies:
 
 `Html` `Css` `Javascript` `SqlLite3`
